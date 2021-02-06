@@ -8,14 +8,14 @@
   <img src='https://github-readme-stats.vercel.app/api?username=Mimr3w&show_icons=true&count_private=true'>
 </p>
 <h3 align='center'>
-  <a href="https://mimr3w.ir"> mimr3w.ir </a> <a href="https://rahmani.pw"> rahmani.pw </a>
+  <a href="https://rahmani.pw"> rahmani.pw </a>
 </h3> 
 <details align='center'>
   <summary>More about me</summary>
   
   It was a joke, there is no more info here  `¯\_(ツ)_/¯`
 
-  If you want to know more about me here is my site https://mimr3w.ir, or just view my contacts in my blog https://rahmani.pw and I would gladly answer your questions or try to help you out with whatever you need! 
+  If you want to know more about me here is my site https://rahmani.pw, and I would gladly answer your questions or try to help you out with whatever you need! 
 
   <sub>In fact, if you think about it, this above was actually more information about me :)<sub> 
 </details>
